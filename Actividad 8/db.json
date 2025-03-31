@@ -1,0 +1,74 @@
+{
+  "superheroes": [
+    {
+      "nombreReal": "Mark",
+      "nombreHeroe": "Invencible",
+      "foto": "/imagenes/superheroe-1743442531105.avif",
+      "descripcion": "Viltrumita y humano en un superheroe",
+      "id": 1
+    },
+    {
+      "nombreReal": "Tony Stark",
+      "nombreHeroe": "Iron Man",
+      "foto": "/imagenes/superheroe-1743442617317.jpeg",
+      "descripcion": "Genio, Millonario, Playboy, Filantropo",
+      "id": 2
+    },
+    {
+      "nombreReal": "Peter Parker",
+      "nombreHeroe": "Spider Man",
+      "foto": "/imagenes/superheroe-1743442670240.avif",
+      "descripcion": "Spiderman",
+      "id": 3
+    },
+    {
+      "nombreReal": "Steve Rogers",
+      "nombreHeroe": "Capitán America",
+      "foto": "/imagenes/superheroe-1743442783102.jpg",
+      "descripcion": "Tomó el suero del super soldado para obtener su fuerza",
+      "id": 4
+    },
+    {
+      "nombreReal": "James Buchanan Barnes",
+      "nombreHeroe": "Winter Soldier",
+      "foto": "/imagenes/superheroe-1743442906254.avif",
+      "descripcion": "Soldado del invierno que al igual que capitan america obtuvo sus poderes de una botella",
+      "id": 5
+    },
+    {
+      "nombreReal": "TChalla",
+      "nombreHeroe": "Black Panther",
+      "foto": "/imagenes/superheroe-1743443012417.jpg",
+      "descripcion": "Su tribu y el son muy avanzados en la tecnología pero comparten rituales y tradiciones propios",
+      "id": 6
+    },
+    {
+      "nombreReal": "Wanda Maximoff",
+      "nombreHeroe": "Bruja escarlata",
+      "foto": "/imagenes/superheroe-1743443072077.webp",
+      "descripcion": "Bruja con superpoderes",
+      "id": 7
+    },
+    {
+      "nombreReal": "Bruce Banner",
+      "nombreHeroe": "Hulk",
+      "foto": "/imagenes/superheroe-1743443145722.jpg",
+      "descripcion": "Le inyectaron un suero que lo convierte en una bestia con gran fuerza",
+      "id": 8
+    },
+    {
+      "nombreReal": "Natalia Alianovna Romanoff",
+      "nombreHeroe": "Black Widow",
+      "foto": "/imagenes/superheroe-1743443240747.jpeg",
+      "descripcion": "Entrenada desde pequeña para usarla como soldado para fuerzas especiales",
+      "id": 9
+    },
+    {
+      "nombreReal": "Clinton Francis \"Clint\" Barton",
+      "nombreHeroe": "Hawkeye",
+      "foto": "/imagenes/superheroe-1743443384099.webp",
+      "descripcion": "Grandes reflejos y una precisión con el arco y sus flechas antinormales",
+      "id": 10
+    }
+  ]
+}
